@@ -1,0 +1,19 @@
+{
+  "name": "picko",
+  "version": "1.0.0",
+  "description": "Photo and Video Website with Content Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinstory/picko.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinstory/picko/issues"
+  },
+  "homepage": "https://github.com/kevinstory/picko#readme"
+}
